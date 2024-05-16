@@ -1,3 +1,12 @@
+# TODO
+
+-   figure out comissioner of oaths prices and descriptions
+-   domain name
+-   figure out with current provider
+-   email button that routes to email
+-   change font colors
+-   change icon pics in about us
+
 # [Start Bootstrap - Agency](https://startbootstrap.com/theme/agency)
 
 [Agency](https://startbootstrap.com/theme/agency) is a one page, agency portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
@@ -81,4 +90,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 ## Copyright and License
 
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license.
+Copyright 2013-2024 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license.

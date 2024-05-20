@@ -6,4 +6,12 @@
     text-align: center;
     font-size: 0.9rem;
     font-family: $headings-font-family;
+
+    .google-review-link {
+        color: black;
+    }
+
+    .google-review-link:hover {
+        color: gray;
+    }
 }
